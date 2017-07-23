@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Model: MyString
+  Risk: MyString
+  Strategy: MyString
+  Funds: MyString
+  1Year: 1
+  3Year: 1
+  5Year: 1
+  10Year: 1
+
+two:
+  Model: MyString
+  Risk: MyString
+  Strategy: MyString
+  Funds: MyString
+  1Year: 1
+  3Year: 1
+  5Year: 1
+  10Year: 1
